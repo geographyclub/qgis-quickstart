@@ -8,7 +8,7 @@ These are my personal working files and I'm making them available AS IS (bugs an
 
 Download and install QGIS if you don't already have it: [QGIS Downloads](https://qgis.org/download/).
 
-The following are IMPORTANT things to know about QGIS and using the files in this repo.
+If you are new to QGIS, the following are IMPORTANT things to know about using the files in this repo.
 
 ### Browser Panel
 
