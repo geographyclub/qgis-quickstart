@@ -1,6 +1,6 @@
 # qgis-quickstart
 
-Geospatial data + style in a single file, ready to load and edit in QGIS.
+Sample geospatial datasets with style, ready to load and edit in QGIS.
 
 These are from my personal working files and I'm making them available AS IS (bugs and all).
 
