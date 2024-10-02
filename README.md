@@ -4,6 +4,20 @@ Sample geospatial datasets with style, ready to load and edit in QGIS.
 
 These are from my personal working files and I'm making them available AS IS (bugs and all).
 
+## Files
+
+OpenStreetMap  
+[Isometric basic](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/isometric_basic)
+[Isometric sketch](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/isometric_sketch)
+[Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/roadmap)
+
+Natural Earth  
+[Globe](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/globe)
+[Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/roadmap)
+[Transit-style roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/transit)
+
+*See img folder for screenshots
+
 ## Set Up
 
 Download and install QGIS if you don't already have it: [QGIS Downloads](https://qgis.org/download/).
