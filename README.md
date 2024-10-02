@@ -48,7 +48,7 @@ Or the excellent tutorials at:
 
 ### Natural Earth
 [Natural Earth downloads](https://www.naturalearthdata.com/downloads/)  
-[Direct download link](https://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip) for all vector layers in a single geopackage  
+[Direct download](https://naciscdn.org/naturalearth/packages/natural_earth_vector.gpkg.zip) for all vector layers in a single geopackage  
 
 ### OpenStreetMap
 [OpenStreetMap](https://www.openstreetmap.org/#map=2/71.3/-96.8.)  
