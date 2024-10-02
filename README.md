@@ -7,14 +7,14 @@ These are from my personal working files and I'm making them available AS IS (bu
 ## Files
 
 OpenStreetMap  
-[Isometric basic](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/isometric_basic)
-[Isometric sketch](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/isometric_sketch)
-[Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/roadmap)
+[Isometric basic](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/isometric_basic)  
+[Isometric sketch](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/isometric_sketch)  
+[Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/openstreetmap/roadmap)  
 
 Natural Earth  
-[Globe](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/globe)
-[Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/roadmap)
-[Transit-style roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/transit)
+[Globe](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/globe)  
+[Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/roadmap)  
+[Transit-style roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/transit)  
 
 *See img folder for screenshots
 
