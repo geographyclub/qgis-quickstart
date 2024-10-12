@@ -16,7 +16,7 @@ Natural Earth
 [Roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/roadmap)  
 [Transit-style roadmap](https://github.com/geographyclub/qgis-quickstart/tree/main/naturalearth/transit)  
 
-*See img folder for screenshots
+*See respective img folders for screenshots
 
 ## Set Up
 
